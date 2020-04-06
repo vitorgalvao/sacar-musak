@@ -1,8 +1,3 @@
-To support my continued open-source work, pick a method:
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/5/53/PayPal_2014_logo.svg' height='18' alt='Support via Paypal'>](https://www.paypal.me/vitorgalvao)&nbsp;&nbsp;
-[<img src='https://dl.dropboxusercontent.com/s/y3pft1fbmer5v22/society6.svg' height='19' alt='Support via Society6'>](https://vitorgalvao.com/society6)
-
 # <img src='https://i.imgur.com/7fSPDfx.png' width='45' align='center' alt='Sacar Musak logo'> Sacar Musak
 
 <img src='https://i.imgur.com/a0esJ1e.png' width='478' alt='Sacar Musak screenshot'><img src='https://i.imgur.com/WqOFTmx.png' width='340' align='right' alt='Sacar Musak screenshot'>
